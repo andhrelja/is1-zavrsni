@@ -1,4 +1,4 @@
-from imutils import VideoStream
+from imutils.video import VideoStream
 
 import argparse
 import datetime
@@ -42,7 +42,7 @@ while True:
     cnts = imutils.grab_contours(cnts)
 
     for c in cnts:
-        if cv2.contourArea(c) < args['min-area']:
+        if cv2.contourArea(c) < args.get('min-area', 500):
             continue
 
         (x, y, w, h) = cv2.boundingRect(c)
