@@ -1,0 +1,40 @@
+item { 
+	name:'pozdrav'
+	id:1
+}
+item { 
+	name:'dovidjenja'
+	id:2
+}
+item { 
+	name:'hvala'
+	id:3
+}
+item { 
+	name:'da'
+	id:4
+}
+item { 
+	name:'ne'
+	id:5
+}
+item { 
+	name:'volimte'
+	id:6
+}
+item { 
+	name:'molimte'
+	id:7
+}
+item { 
+	name:'prekrasno'
+	id:8
+}
+item { 
+	name:'kad'
+	id:9
+}
+item { 
+	name:'kako'
+	id:10
+}

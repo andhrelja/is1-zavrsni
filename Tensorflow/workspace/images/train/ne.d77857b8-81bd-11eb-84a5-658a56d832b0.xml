@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>ne.d77857b8-81bd-11eb-84a5-658a56d832b0.jpg</filename>
+	<path>C:\Users\AndreaHrelja\Documents\Python Scripts\is1-zavrsni\Tensorflow\workspace\images\collectedimages\ne.d77857b8-81bd-11eb-84a5-658a56d832b0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ne</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>209</xmin>
+			<ymin>262</ymin>
+			<xmax>366</xmax>
+			<ymax>384</ymax>
+		</bndbox>
+	</object>
+</annotation>
